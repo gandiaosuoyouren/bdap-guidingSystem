@@ -2,7 +2,11 @@
     <div>
       <LeftNavbar></LeftNavbar>
       <SearchTool></SearchTool>
+<<<<<<< HEAD
+      
+=======
       <img src="@/assets/background.jpg" class="background">
+>>>>>>> d5a8ee2d51fcad5ee17a33e771b1c221b6e64b8f
     </div>
   </template>
   
