@@ -1,0 +1,6 @@
+:root {
+    --global-background-color: #ffffff; /* 默认全局背景颜色 */
+    --navbar-color: #bad3d6; /* 默认导航栏颜色 */
+    --navbar-color1: rgb(185, 204, 226); /* 默认副导航栏颜色 */
+
+  }
